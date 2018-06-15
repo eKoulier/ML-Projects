@@ -1,6 +1,6 @@
 # ML-Projects
 
-Here I have my projects for the [Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t) offered by [Udacity](https://eu.udacity.com/).
+Here I have my projects for the [Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t) offered by [Udacity](https://eu.udacity.com/). You may find my certificate for this Nanodegree [here](https://graduation.udacity.com/confirm/FUNWY223).
 
 ## Transfer Learning for Dog Breed Classification
 
