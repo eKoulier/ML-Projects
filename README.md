@@ -38,3 +38,11 @@ and oncoming traffic at each intersection. With states identified, I then implem
 to guide it towards its destination within the allotted time. Finally, I improve upon the Q-Learning algorithm to find the best configuration 
 of learning and exploration factors to ensure the self-driving agent is reaching its destinations with consistently positive results.
 
+## Identify Customer Segments
+
+In this project I apply unsupervised learning techniques on product spending data collected for customers of a wholesale distributor 
+in Lisbon, Portugal to identify customer segments hidden in the data.I first explore the data by selecting a small subset to sample and 
+determine if any product categories highly correlate with one another. Afterwards, I preprocess the data by scaling each product category
+ and then identifying (and removing) unwanted outliers. With the good, clean customer spending data, I apply PCA transformations to the 
+ data and implement clustering algorithms to segment the transformed customer data. Finally, I compare the segmentation found with an 
+ additional labeling and consider ways this information could assist the wholesale distributor with future service changes.
