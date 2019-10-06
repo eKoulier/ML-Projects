@@ -19,8 +19,7 @@ My end solution uses the later architecture with some modifications and its accu
 This is the Captstone one. It was a challenging classification task: Given a few physiochemical characteristics of a white wine, 
 I developed an algorithm that predicts its quality. I had to design the complete pipeline of the project: from analysing the data 
 to get initial insights to deliver a final model that classifies the quality of the white wine. This repository contains the project 
-proposal I had to submit to Udacity, my code implementation and the final report where I present my results. I used [LaTeX](https://www.latex-project.org/) 
-to write this report.
+proposal I had to submit to Udacity, my code implementation and the final report where I present my results.
 
 ## Finding Donors for CharityML
 
